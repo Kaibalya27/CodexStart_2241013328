@@ -1,3 +1,9 @@
+/*
+ * Name: Kaibalya Mohapatra
+ * Reg No: 2241013328
+ * PS LINK: https://cses.fi/problemset/task/1070
+ */
+
 import java.io.*;
 
 public class Q7_1070 {
